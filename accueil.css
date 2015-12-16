@@ -1,0 +1,327 @@
+*{margin:0;padding:0;}
+	.american_cartoon
+	{
+		height: 370px;
+	}
+
+	.a_1{padding: 0 15px; color :white;}
+	.a_2{padding: 0 15px; color :white;}
+	.a_3{padding: 0 15px; color :white;}
+	.a_4{padding: 0 15px; color :white;}
+	.a_5{padding: 0 15px; color :white;}
+	.a_6{padding: 0 15px; color :white;}
+	
+	.row
+	{
+		background-color: grey;
+	}
+	.row2
+	{
+		background-color: grey;
+		height: 50px;
+	}
+
+	.section_bienvenue
+	{
+		margin-left: 0px;
+		margin-right:0px; 
+		margin-top: 0px;
+		border-radius: 5px;
+	}
+	.article_bienvenue
+	{
+		color:white;
+	}
+	.row3
+	{
+		background-color: grey;
+		height:210px;
+	}
+	.p1{text-align: center;}
+	.p2{text-align: center;}
+	.p3{text-align: center;}
+
+	.section_infos
+	{
+		float:left;
+		margin-left: 300px;
+		margin-top: 50px;
+		height:200px;
+		width: 660px;
+		border-radius: 5px;
+
+	}
+	.article_PeterPan
+	{
+		border : 1px solid black;
+		float: left;
+		margin-left: 10px;
+		margin-bottom: 10px;
+		margin-top: 10px;
+		height: 180px;
+		background-color: #66FF99;
+	}
+	.p_peterpan
+	{
+		border-top: none;
+		border-left: none;
+		border-right:none;
+	}
+	.a_peterpan
+	{
+		float:left;
+		margin-left: 20px;
+	}
+	.image_peterpan
+	{
+		width: 75px;
+		height: 175px;
+		position: absolute;
+		left :250px;
+		top : 0px;
+	}
+	.article_HannaBarbera
+	{
+		border : 1px solid black;
+		margin-left: 400px;
+		height: 180px;
+		margin-bottom: 10px; 
+		margin-right: 10px;
+		margin-top: 10px;
+		margin-left: 370px;
+		background-color: #FF0066;
+	}
+	.p_hannabarbera
+	{
+		color: white;
+	}
+	.image_tometjerry
+	{
+		width: 120px;
+		height: 140px;
+
+	}
+	.a_hannabarbera
+	{
+		float:right;
+		margin-top: 120px;
+		margin-right: 20px;
+		color: #FFFFFF;
+		
+	}
+
+	.aside_info
+	{
+		float:right;
+		margin-right: 175px;
+		margin-top: 50px;
+		width: 200px;
+		height: 790px;
+		border-radius: 5px;
+
+	}
+	.p_aside
+	{
+		text-align: center;
+		border-left:none;
+		border-right:none;
+		color:white;
+	}
+	.image_sanji
+	{
+		width: 180px;
+		height: 140px;
+		margin-left: 10px;
+		margin-top: 10px;
+		border : 2px solid black;
+
+	}
+	.p_sanji
+	{
+		border-right:none;
+		border-left:none;
+		color:white;
+	}
+	.a_sanji
+	{
+		float:right;
+		margin-right: 10px;
+		color: white;
+	}
+	.image_chtarbe
+	{
+		width: 180px;
+		height: 140px;
+		margin-left: 10px;
+		margin-top: 10px;
+		border : 2px solid black;
+	}
+	.p_chtarbe
+	{
+		border-right:none;
+		border-left:none;
+		color:white;
+	}
+	.a_chtarbe
+	{
+		float:right;
+		margin-right: 10px;
+		color: white;
+	}
+	.image_gadget
+	{
+		width: 180px;
+		height: 140px;
+		margin-left: 10px;
+		margin-top: 10px;
+		border : 2px solid black;
+	}
+	.p_gadget
+	{
+		border-right:none;
+		border-left:none;
+		color:white;
+	}
+	.a_gadget
+	{
+		float:right;
+		margin-right: 10px;
+		color: white;
+	}
+	.end_info
+	{
+		margin-top: 0px;
+		text-align: center;
+		color:white; 
+		height: 93px;
+	}
+
+	.section_info2
+	{
+		float:left;
+		margin-left: 300px;
+		margin-top: 100px;
+		height: 200px;
+		width: 660px;
+	
+		border-radius: 5px;
+	}
+	.article_OnePiece
+	{
+		border : 1px solid black;
+		float:left;
+		width: 340px;
+		height: 180px;
+		margin-top: 10px;
+		margin-left :10px;
+		margin-bottom : 10px;
+		background-color: #FFCC00;
+
+	}
+	.p_onepiece
+	{
+		float: left;
+	}
+	.image_zou
+	{
+		width: 120px;
+		height: 180px;
+		position: absolute;
+		left:175px;
+		top:0px;
+	}
+	.a_onepiece
+	{
+		float:right;
+		margin-right: 20px;
+		
+	}
+	.article_DragonBall
+	{
+		border : 1px solid black;
+		margin-left: 335px;
+		height: 180px;
+		margin-bottom: 10px; 
+		margin-right :10px;
+		margin-top :10px;
+		width: 300px;
+		background-color: #B30000;
+	}
+	.p_dragonball
+	{
+		color: white;
+		float:right;
+	}
+	.image_dragonball
+	{
+		width: 100px;
+		height: 160px;
+		position: absolute;
+		top:0px;
+		left:150px;
+	}
+	.a_dragonball
+	{
+		float:right;
+	
+		margin-right: 10px;
+		color: white;
+	}
+	.article_Spiderman
+	{
+		background-color: navy;
+		border:1px solid black;
+		height:190px;
+		width:360px;
+		margin-left:10px; 
+		margin-top: 20px;
+		margin-bottom:10px; 
+	}
+	.image_cavemens
+	{
+		height:180px; 
+		width:200px;
+		position: absolute;
+		left:100px;
+		top:0px;
+	}
+	
+	.image_spiderman
+	{
+		height:170px; 
+		width:200px;
+		position: absolute;
+		left:160px;
+		top:00px;
+	}
+	.p_spiderman
+	{
+		color: white;
+	}
+	.article_Recurrent
+	{
+		
+		border: 1px solid black;
+		height: 180px;
+		position : absolute;
+		right:650px;
+		top: 1375px;
+		width: 300px;
+		background-color: lime;
+
+	}
+
+	
+	footer
+	{
+		text-align:center;
+		border-radius:5px ;
+		position: absolute;
+		bottom:0px;
+		right:0px;
+		left:0px;
+		top:1650px;
+		color:black;
+		height:50px;
+		background-color: grey;
+	}

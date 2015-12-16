@@ -1,0 +1,14 @@
+ <aside class="aside_info">
+            <p class="p_aside">info supplémentaires</p>
+            <img src="http://media.giphy.com/media/N7gT4AxkybVLO/giphy.gif" class="image_sanji" alt="Sanji"/>
+            <p class="p_sanji">Pourquoi Sanji est-il recherché uniquement vivant par la marine ? <a href="sanji.html" class="a_sanji">Voir l'article</a>
+            </p>
+
+            <img src="http://vignette2.wikia.nocookie.net/p__/images/f/f1/SCREWY11.png/revision/latest?cb=20131201192910&path-prefix=protagonist" class="image_chtarbe" alt="écureuil_chtarbé"/>
+            <p class="p_chtarbe">Les tours de passe passe les plus folles de Casse Noisette, l'écureuil chtarbé de l'univers de Tex Avery ! <a href="chtarbe.html" class="a_chtarbe">Voir l'article</a></p>
+            
+             <img src="http://golem13.fr/wp-content/uploads/2014/07/Gadget_inspecteur.jpg" class="image_gadget" alt="Inspecteur Gadget"/>
+            <p class="p_gadget">Les points communs entre le nouveau Gadget et l'ancien Gadget <a href="gadget.html" class="a_gadget">Voir l'article</a></p>
+
+            <p class="end_info"></br></br>infos supplémentaires</p>
+        </aside>
